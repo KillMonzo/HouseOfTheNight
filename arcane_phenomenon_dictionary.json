@@ -1,0 +1,177 @@
+{
+"50": {
+  "name": "Whispering Void",
+  "description": "A suffocating silence is abruptly shattered by whispered litanies of unspeakable horrors, emanating from an unseen void that hungers for the arcane.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Occult",
+  "resolution": "The ethereal whispers are silenced as an encompassing wave of arcane fortitude disperses the voracious void."
+},
+"51": {
+  "name": "Vortex of Souls",
+  "description": "The air writhes with the agony of ensnared souls, their faces contorting within the swirling vortex that seeks to consume all life with its arcane malice.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Glass",
+  "resolution": "A calm settles as a shimmering talisman of glass channels the arcane energies, liberating the ensnared spirits from their swirling nightmare."
+},
+"52": {
+  "name": "Grimoire of the Baneful Covenant",
+  "description": "An ancient tome bound in writhing flesh murmurs vile curses; each incantation twists reality to the brink of ruin, sowing despair within the arcane realm.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Gothic",
+  "resolution": "The malevolent verses fall silent, their power contained within the ornate cage of a Gothic reliquary."
+},
+"53": {
+  "name": "Scepter of Discordant Power",
+  "description": "From a scepter of twisted metal resonates a cacophony of dissonance, warping the fabric of reality into an arcane battleground where only the strongest wills survive.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Metal",
+  "resolution": "Harmony is wrested from chaos as the scepter's din is quelled by the resonating tone of a sacred gong, its metal pure and sound true."
+},
+"54": {
+  "name": "Pillars of the Damned",
+  "description": "A circle of obsidian pillars throbs with the silent screams of souls, their torment etched into the very stone, an arcane prison from which there seems no escape.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Stone",
+  "resolution": "As each pillar crumbles to dust, the shadows of their captive souls flee into the ether, their release an echo of arcane triumph."
+},
+"55": {
+  "name": "Oscillation of Forbidden Runes",
+  "description": "The very air crackles with arcane energy as runic symbols carved from shadow etch themselves upon every surface, their pulsating power filling the room with a chorus of forbidden whispers.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Occult",
+  "resolution": "The runes dim and scatter like ashes on the wind when the room is sealed with an object steeped in occult history."
+},
+"56": {
+  "name": "Chalice of the Banished Sorcerer",
+  "description": "A gothic chalice materializes, brimming with an ebon liquid that seeps into realities fabric, its dark whispers tempting the unwary to sip from the draught of oblivion.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Gothic",
+  "resolution": "Resistance to the chalice’s macabre allure causes it to shatter into nothingness, its malignant proposition unquenched."
+},
+"57": {
+  "name": "Reflections of the Devouring Abyss",
+  "description": "Mirrors appear throughout the room, their glassy depths alive with the writhing souls of the damned, each reflection a window into a realm wrought with despair and endless hunger.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Glass",
+  "resolution": "With a piercing note of arcane clarity, the tormented souls in the mirrors are released, and the glass returns to mundane normalcy."
+},
+"58": {
+  "name": "Ascendancy of Rusting Blades",
+  "description": "Etherial swords of blackened metal hover ominously, vibrating with a malignant keen as they slice through the very essence of the arcane, their edges corroded by malevolence beyond comprehension.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Metal",
+  "resolution": "A balanced scale made of untarnished metal quells the blades' animosity, grounding their wrath and bringing silence once more."
+},
+"59": {
+  "name": "Eidolon of Mortal Grief",
+  "description": "From the mortared stones of the estate, a sorrowful eidolon manifests, its stony visage weeping tears that scream with the collected lamentations of ages past, drowning the room in a palpable melancholy.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Stone",
+  "resolution": "Acknowledging the eidolon's pain with a heartfelt gesture of mourning turns its tears to dust and grants the spirit reprieve."
+},
+"60": {
+  "name": "Vein of the Ravenous Earth",
+  "description": "The ground beneath breaks open, revealing roots black as night, pulsating with a hunger that consumes light, life, and arcane alike, their insatiable thirst seeping corruption into earth's cradle.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Nature",
+  "resolution": "A sacred bloom placed within the reach of the roots entwines with them, quenching their yearning and sealing the chasm from whence they came."
+},
+"61": {
+  "name": "Orchestra of Whirring Catastrophe",
+  "description": "The rhythmic cacophony of mechanical abominations assaults the senses, a macabre orchestra conducted by unseen forces with the sole intent of orchestrating an arcane maelstrom to rend the fabric of reality.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Mechanical",
+  "resolution": "Syncing the dreadful dissonance with a contraption of cogs and springs crafted in antiquity disassembles the orchestra's presence, note by note."
+},
+"62": {
+  "name": "Haunted Cadence of the Archivist's Quill",
+  "description": "Invisible quills script tales of woe upon ancient parchments, the ink drawn from a well of human fears, each stroke a testament to the vilest chapters of occult history.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Occult",
+  "resolution": "The malefic scribbling ceases only when the final chapter is composed with a quill of one’s own devising, encapsulating the unspeakable within the annals of obscurity."
+},
+"63": {
+  "name": "Phantom Masquerade Ball",
+  "description": "Apparitions in gothic attire waltz through the estate, each dancer's mask a grotesque mimicry of life, their silent steps an invitation to a dance that ensnares the soul in an eternal, twilight revelry.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Gothic",
+  "resolution": "As an ancient melody usurps the silence, the phantoms fade, their finale a bow to the master of ceremonies who conducted their departure."
+},
+"64": {
+  "name": "Malediction of the Shattered Obelisk",
+  "description": "Once a monolith of protective warding, this fractured obelisk now radiates a spite for all that is living, imbuing relics of stone with a loathsome resonance that seeks to fracture the barriers between the arcane and the damned.",
+  "associated_skill": "Arcane",
+  "secondary_requirement": "Stone",
+  "resolution": "Crafting a medallion from reconciled shards restores the obelisk’s sanctity, nullifying the curse and its pernicious spread."
+},
+"65": {
+    "name": "Abyssal Echoes",
+    "description": "An unseen force scribes ghastly runes mid-air, each glyph thrumming with the dread of forgotten eons, and bleeding shadows into the surroundings.",
+    "associated_skill": "Arcane",
+    "secondary_requirement": "Occult",
+    "resolution": "The menacing runes dissipate as an ancient occult sigil is held high, its innate power overwhelming the cryptic aerial etchings."
+},
+"66": {
+    "name": "The Wailing Spectral Vortex",
+    "description": "A whirlwind of spectral faces howls through the room, their tormented visages a cyclone of despair that claws at the sanity of all who witness.",
+    "associated_skill": "Arcane",
+    "secondary_requirement": "Glass",
+    "resolution": "Tranquility returns as a dusted old mirror is introduced, absorbing the agonized spirits into its reflective abyss."
+},
+"67": {
+    "name": "Infernal Machinations",
+    "description": "An invisible engine's gears grind and its pistons hiss, each mechanical cycle invoking arcane curses that corrupt the estate's very foundations.",
+    "associated_skill": "Arcane",
+    "secondary_requirement": "Mechanical",
+    "resolution": "The eerie clanking ceases as a meticulously crafted gear, marked with esoteric sigils, is sacrificed, jamming the ghostly mechanism's operation."
+},
+"68": {
+    "name": "Chains of the Damned",
+    "description": "Ethereal chains rattle through the estate, their clinking an anthem of binding, binding spectral entities to the mortal plane in a chorus of unending servitude.",
+    "associated_skill": "Arcane",
+    "secondary_requirement": "Metal",
+    "resolution": "The chains fall silent as a warm ingot is offered and melts into nothing, appeasing the spirits linked by these metal fetters."
+},
+"69": {
+    "name": "The Shattered Monolith",
+    "description": "An arcane power emanates from the fragments of a sundered obelisk, its splintered remains a beacon for eldritch horrors clawing at the veils of reality.",
+    "associated_skill": "Arcane",
+    "secondary_requirement": "Stone",
+    "resolution": "The ominous vibrations fade as the stone shards are ground into fine dust, sealing away the terror they summoned."
+},
+"70": {
+    "name": "Grove of Whispers",
+    "description": "Twisted branches etched with runes extend from the walls, their leaves murmuring vile incantations that cause the living flora to wither and blacken.",
+    "associated_skill": "Arcane",
+    "secondary_requirement": "Nature",
+    "resolution": "The whispering grove is silenced and vitality restored, as a single drop of dew from the most vibrant leaf neutralizes the blight."
+},
+"71": {
+    "name": "Gothic Requiem",
+    "description": "An intangible choir lofts a malevolent dirge throughout the corridors, their notes twisting the very architecture into grotesque shapes of despair.",
+    "associated_skill": "Arcane",
+    "secondary_requirement": "Gothic",
+    "resolution": "The mournful song ends abruptly as a relic of gothic lineage is placed at the epicenter, absorbing the cacophonous disharmony."
+},
+"72": {
+    "name": "Glass Souls' Lament",
+    "description": "The air shimmers as tormented spirits are refracted through unseen glass, their wails manifesting physical shards that slice through flesh and spirit.",
+    "associated_skill": "Arcane",
+    "secondary_requirement": "Glass",
+    "resolution": "Calm is restored as a prism crafted from sanctified glass aligns the fractious spirits, granting them repose."
+},
+"73": {
+    "name": "The Ironbound Grimoire",
+    "description": "A tome bound in rusted iron eternally writes the fates of those nearby, its pages sopping with the ink of dread.",
+    "associated_skill": "Arcane",
+    "secondary_requirement": "Metal",
+    "resolution": "The relentless scripting halts as a sacrifice of molten metal reseals the grimoire, erasing the dooms inscribed within."
+},
+"74": {
+    "name": "Obsidian Whorl",
+    "description": "Dark energies spiral from an obsidian heart suspended in nothingness, its untamed magic searing the ether with every pulse.",
+    "associated_skill": "Arcane",
+    "secondary_requirement": "Stone",
+    "resolution": "Equilibrium is reclaimed as the obsidian core is shattered with a counter-pulse of purifying mana, dispersing the foul energies."
+}
+}

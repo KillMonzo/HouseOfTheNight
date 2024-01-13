@@ -1,0 +1,177 @@
+{
+    "125": {
+        "name": "Shroud of the Shadow Wraith",
+        "description": "An all-encompassing darkness seeps through the walls, and from within it, the silhouette of a vengeful wraith emerges, its whispering cloak promising to smother the light from your soul.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Gothic",
+        "resolution": "Standing perfectly still, you blend into the insignificant light until the wraith's cloak passes through, leaving naught but the echo of its touch."
+    },
+    "126": {
+        "name": "Breath of the Void",
+        "description": "An unseen suffocating presence fills the air with dread, each breath you take a silent scream as the essence of the abyss hunts for the warmth of life to extinguish.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Occult",
+        "resolution": "Holding your breath, you become one with the silence of the void, unnoticed by the ravenous emptiness."
+    },
+    "127": {
+        "name": "Specter of Tarnished Mirrors",
+        "description": "Haunting reflections twist and contort in the estate's mirrors as an ethereal specter, born from the shattered vanity of a bygone era, reaches out to the material realm seeking a visage to claim.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Glass",
+        "resolution": "You move without casting a reflection, a ghost to the mirrors, until the specter retreats back into the fractured glass, quiet once more."
+    },
+    "128": {
+        "name": "Ironclad Revenant",
+        "description": "With creeping inevitability, the clanking drone of a relentless, armored apparition echoes increasingly louder, its iron fists ready to pound the life from all it encounters.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Metal",
+        "resolution": "Careful to make no sound, you elude the rhythm of the revenant's march until it recedes into the distance, its purpose unfulfilled."
+    },
+    "129": {
+        "name": "Whispers from the Verdant Prison",
+        "description": "A malignant overgrowth of thorns and vines erupts to ensnare you, the whispers of those entombed within urging you to join them in their leafy crypt.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Nature",
+        "resolution": "Avoiding even the slightest brush against the ensnaring verdure, you escape its grasp as the whispers subside, the growth retreating back to sleep."
+    },
+    "130": {
+        "name": "Prowler in the Periphery",
+        "description": "The faint, yet unmistakable sound of footsteps echo through the halls, always just beyond sight but ever-present. Its pace quickens as your back turns, yet halts abruptly when you gaze into the murky gloom.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Glass",
+        "resolution": "Only by mirroring the silence and stillness of death does the presence relent, its footsteps fading into nothingness."
+    },
+    "131": {
+        "name": "Visage of Hollowed Judgement",
+        "description": "Carved stone faces adorn the wall, their hollowed eyes following your every move. A suffocating air of judgement presses down on you as you navigate the room, feeling as though any misstep could be your last.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Stone",
+        "resolution": "It is with bated breath and weightless steps that you evade their ever-watchful gaze, escaping their stony verdict."
+    },
+    "132": {
+        "name": "Breath of the Ironmonger's Apparition",
+        "description": "The cold whiff of metallic air fills your lungs, the clanging of immaterial anvils thundering ever closer. An invisible smith seeks to forge you in unseen chains.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Metal",
+        "resolution": "Stifling each breath, you disperse the chilled air, and the spectral smith fades, his malice left unfulfilled."
+    },
+    "133": {
+        "name": "Ethereal Gardener's Thirst",
+        "description": "Where the ghost of a tormented gardener once toiled, a petrifying chill follows. Each footstep across the cold earth seems to quench an unnatural thirst.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Nature",
+        "resolution": "Ceasing all movement, you become as dormant as the winter soil, causing the gardener's presence to withdraw."
+    },
+    "134": {
+        "name": "Lurker Amidst the Timepiece",
+        "description": "The incessant ticking of unseen clocks grows ever louder, synchronized with your rising pulse. A dread sense of inevitability looms, as if time itself were stalking you.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Mechanical",
+        "resolution": "Suspending your own moment in time, the clocks fall silent, the imaginary chaser lost to a standstill hush."
+    },
+    "135": {
+        "name": "Sobbing Shadows of the Forsaken",
+        "description": "The walls echo with the melancholy weepings of those once bound by tragedy. Echoes that haunt the corners, seeking solace in new sorrow.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Gothic",
+        "resolution": "Only through a passed procession, silent as grief itself, do the mournful shadows disperse, granting quietus."
+    },
+    "136": {
+        "name": "Crimson Spectre in the Looking Glass",
+        "description": "Mirrored surfaces weep droplets of crimson, and in their reflective pools, a malevolent spectre seeks to draw you into a grisly tableau.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Glass",
+        "resolution": "By averting your gaze and touching not a single shard, the bloody reflection dries, the spectre trapped once more."
+    },
+    "137": {
+        "name": "Sentinel of the Twisted Iron",
+        "description": "A grotesque figure of contorted iron floats through the halls, its limbs lacerating the space where flesh should be. A spectral warden of rusty blades, it awaits any sign of your breath to strike.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Metal",
+        "resolution": "In the silence of held breath, the iron sentinel passes—its hunt fruitless, its blades only cleaving shadow."
+    },
+    "138": {
+        "name": "Entangler in the Emerald Enigma",
+        "description": "A labyrinth of vines and leaves winds swiftly around you, leaving no path untwined. The verdant trap tightens with every move you dare to make.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Nature",
+        "resolution": "Immobility is your ally, as the verdure seeks a struggle that does not come. In stillness, the foliage retracts."
+    },
+    "139": {
+        "name": "Cacophony of the Clockwork Courtier",
+        "description": "Whirring and clicking fill your ears as a clockwork figure shrouded in royal garb patrols with vigilance. Its gears spin a dance of death to the tempo of your racing heart.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Mechanical",
+        "resolution": "You move in counterpoint to the clockwork tempo, slipping by the courtier, a silent shadow in its mechanical watch."
+    },
+    "140": {
+        "name": "Echoes of the Obsidian Specter",
+        "description": "Black mist coalesces amid faintly seen corridors, from which a formless specter emerges, its mere presence leeching the warmth from the air and filling the heart with unspeakable dread.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Glass",
+        "resolution": "Your unseen passage through the chilling darkness leaves the specter grasping at the void, its existence fading with your undisturbed breath."
+    },
+    "141": {
+        "name": "Silhouette of the Iron Maiden",
+        "description": "The unnerving silence is pierced by the creak of an unseen iron maiden, its ghostly silhouette manifesting to any who dare to make a sound, hungry to enclose them within its merciless grasp.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Metal",
+        "resolution": "By moving with the stillness of a shadow, the threatening presence recedes, as if fearing the quietude of the grave."
+    },
+    "142": {
+        "name": "Haunting of the Stone Guardians",
+        "description": "Carved visages of bygone guardians flicker through the walls, their whispers petrifying the very soul, as they stand sentinel over secrets long forgotten.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Stone",
+        "resolution": "Through silent mists, you pass unwatched, the stony glares averted by your hushed reverence to their ancient duty."
+    },
+    "143": {
+        "name": "Visions of the Verdant Maw",
+        "description": "Whispers of writhing foliage permeate the shadows, where the verdant maw of nature's abomination lies in wait, eager to consume those who disturb its sinister slumber.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Nature",
+        "resolution": "Your delicate passage leaves the monstrous growth befuddled and yearning, its hunger unfulfilled in the wake of your ephemeral touch."
+    },
+    "144": {
+        "name": "Grimoire of the Forgotten Machines",
+        "description": "An arcane energy hums through the air, giving rise to ephemeral clockwork constructs that seek to ensnare the essence of the living within their intricate, forgotten gears.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Mechanical",
+        "resolution": "By sidestepping time's relentless march, you escape unbound, leaving the ghostly machinery to wind down into silence."
+    },
+    "145": {
+        "name": "Chill of the Gothic Requiem",
+        "description": "The echoes of a forlorn requiem resonate through the stony halls, the lamentation of gothic spirits who bewail their untimely demise with a frost that seeps into the soul.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Gothic",
+        "resolution": "Mimicking the stillness of the entombed, you navigate through the sorrowful din, granting peace to the restless by your unnoticed passage."
+    },
+    "146": {
+        "name": "Apparition of the Ebon Coven",
+        "description": "With a devilish chill, the shadowy vestiges of a coven of old materialize, enacting profane rituals that menace to ensnare the will of those caught in their malignant gaze.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Occult",
+        "resolution": "Your presence dissipates like the faintest of whispers amidst their ominous incantations, and you emerge untouched and unclaimed."
+    },
+    "147": {
+        "name": "Reflections of the Mourning Wraith",
+        "description": "Mirrors tarnish with the tears of a mourning wraith, each reflective surface becoming a gateway for the sorrow that yearns to drag the living into endless despair.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Glass",
+        "resolution": "You move in the lament's blind spot, fading from its grievous search as it wails for a companionship that you deny."
+    },
+    "148": {
+        "name": "Whispers of the Corroded Sentinel",
+        "description": "A shrouded figure of rust and ruin patrols the forgotten passages, its whispers heralding the agony of decay, seeking to corrode both flesh and spirit with its touch.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Metal",
+        "resolution": "Your tread leaves no echo in its wake, and without a sound to follow, the sentinel's malevolent watch ends, lost to the void."
+    },
+    "149": {
+        "name": "Ensnarement of the Thistle Crown",
+        "description": "The air becomes thick with the scent of ancient blooms from a crown of thistles, which lays a cursed claim on those who disturb its reign with the rustling of life.",
+        "associated_skill": "Stealth",
+        "secondary_requirement": "Nature",
+        "resolution": "Passing like a zephyr, you leave the cursed crown without a subject to ensnare, its dominion fading as if it were but a dream."
+    }
+}

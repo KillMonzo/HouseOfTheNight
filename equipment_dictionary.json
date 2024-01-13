@@ -1,0 +1,172 @@
+{
+    "equipment": [
+        {
+            "name": "Ectoplasmic Essence",
+            "description": "A bottled otherworldy substance that empowers one with heightened spiritual awareness.",
+            "categories": ["Occult", "Glass"],
+            "effect_type": "Attunement",
+            "rarity": ""
+        },
+        {
+            "name": "Amulet of Whispers",
+            "description": "A silver amulet that murmurs arcane knowledge when the stars align.",
+            "categories": ["Gothic", "Metal"],
+            "effect_type": "Knowledge",
+            "rarity": ""
+        },
+        {
+            "name": "Pendant of Feral Instinct",
+            "description": "A pendant that enhances the wearer's attunement to their surroundings.",
+            "categories": ["Nature", "Cloth"],
+            "effect_type": "Attunement",
+            "rarity": ""
+        },
+        {
+            "name": "Goblet of the Damned",
+            "description": "A goblet crafted from bones, filled with blood that never dries.",
+            "categories": ["Occult", "Bone"],
+            "effect_type": "Attunement",
+            "rarity": ""
+        },
+        {
+            "name": "Clockwork Heart",
+            "description": "A precise mechanical heart that steadies your courage under pressure.",
+            "categories": ["Mechanical", "Metal"],
+            "effect_type": "Courage",
+            "rarity": ""
+        },
+        {
+            "name": "Wraith's Lantern",
+            "description": "A dimly glowing lantern that reveals ghostly apparitions and hidden dangers.",
+            "categories": ["Gothic", "Glass"],
+            "effect_type": "Investigation",
+            "rarity": ""
+        },
+        {
+            "name": "Mechanical Spider",
+            "description": "This clockwork arachnid can reach the smallest crevices to retrieve lost knowledge.",
+            "categories": ["Mechanical", "Metal"],
+            "effect_type": "Investigation",
+            "rarity": ""
+        },
+        {
+            "name": "Orb of Foreknowledge",
+            "description": "A glass orb filled with swirling mists that grant clairvoyance.",
+            "categories": ["Glass", "Occult"],
+            "effect_type": "SkillRoll",
+            "rarity": ""
+        },
+        {
+            "name": "Shackles of the Tormented",
+            "description": "Shackles that bind not only the body but instill a sense of growing despair.",
+            "categories": ["Metal", "Glass"],
+            "effect_type": "SkillRoll",
+            "rarity": ""
+        },
+        {
+            "name": "Ring of the Sanguine Pact",
+            "description": "A ring set with a deep red stone that thirsts for the blood of the living.",
+            "categories": ["Gothic", "Metal"],
+            "effect_type": "Courage",
+            "rarity": ""
+        },
+        {
+            "name": "Pendant of the Dread Widow",
+            "description": "A pendant made from the fangs of a deadly spider; its presence is deeply unsettling.",
+            "categories": ["Nature", "Metal"],
+            "effect_type": "Stealth", 
+            "rarity": ""
+        },
+        {
+            "name": "Visage of the Hollow",
+            "description": "A mask featuring a ghastly, empty visage that fills one's mind with dread.",
+            "categories": ["Mechanical", "Occult"],
+            "effect_type": "Investigation", 
+            "rarity": ""
+        },
+        {
+            "name": "Chalice of the Eldritch",
+            "description": "A chalice with alien carvings; those who drink from it experience unnerving visions.",
+            "categories": ["Occult", "Glass"],
+            "effect_type": "Knowledge", 
+            "rarity": ""
+        },
+        {
+            "name": "Bloodied Sacrificial Dagger",
+            "description": "Still dripping with the blood of an unknown victim, this dagger inspires dread in foes.",
+            "categories": ["Gothic", "Metal"],
+            "effect_type": "Courage", 
+            "rarity": ""
+        },
+        {
+            "name": "Veil of the Banshee",
+            "description": "A translucent cloth that can mask your presence from mortal eyes.",
+            "categories": ["Cloth", "Occult"],
+            "effect_type": "Stealth", 
+            "rarity": ""
+        },
+        {
+            "name": "Cursed Grimoire",
+            "description": "An ancient book bound in strange leather that whispers secrets of the dark arts.",
+            "categories": ["Occult", "Cloth"],
+            "effect_type": "Arcane", 
+            "rarity": ""
+        },
+        {
+            "name": "Mirror of the Abyss",
+            "description": "An obsidian mirror that shows things unseen and unspoken.",
+            "categories": ["Occult", "Glass"],
+            "effect_type": "Investigation", 
+            "rarity": ""
+        },
+        {
+            "name": "Spectacles of Second Sight",
+            "description": "These glasses allow one to see mystical energies and secrets.",
+            "categories": ["Gothic", "Glass"],
+            "effect_type": "Arcane", 
+            "rarity": ""
+        },
+        {
+            "name": "Greaves of Silent Footsteps",
+            "description": "These metal greaves emit no sound, allowing silent movement through threats.",
+            "categories": ["Metal", "Cloth"],
+            "effect_type": "Stealth", 
+            "rarity": "Ultra-Rare"
+        },
+        {
+            "name": "Vorpal Dagger",
+            "description": "A dagger with a blade that phases through matter, perfect for close encounters with otherworldly entities.",
+            "categories": ["Metal", "Gothic"],
+            "effect_type": "Stealth", 
+            "rarity": "Ultra-Rare"
+        },
+        {
+            "name": "Gauntlet of Thorns",
+            "description": "A twisted, spiky gauntlet that injects a potion to bolster the wearer's will.",
+            "categories": ["Nature", "Metal"],
+            "effect_type": "Courage", 
+            "rarity": "Ultra-Rare"
+        },
+        {
+            "name": "Skull of Forbidden Echoes",
+            "description": "This human skull whispers terrifying secrets from beyond.",
+            "categories": ["Occult", "Bone"],
+            "effect_type": "Arcane", 
+            "rarity": "Ultra-Rare"
+        },
+        {
+            "name": "Cloak of the Night Stalker",
+            "description": "This cloak, woven with darkness, shrouds you in shadow.",
+            "categories": ["Gothic", "Cloth"],
+            "effect_type": "Stealth", 
+            "rarity": "Ultra-Rare"
+        },
+        {
+            "name": "Tome of the Blood Moon",
+            "description": "A book bound in human flesh that details rituals only to be performed under a blood moon.",
+            "categories": ["Occult", "Cloth"],
+            "effect_type": "Arcane", 
+            "rarity": "Ultra-Rare"
+        }
+    ]
+}

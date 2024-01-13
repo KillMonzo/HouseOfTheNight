@@ -1,0 +1,177 @@
+{
+    "100": {
+        "name": "The Whispering Shadows of Judgment",
+        "description": "Through the corridors slither shadows, whispering dreadful verdicts, entwining the living in cold, judgmental grips that seem to pass sentence on one's soul.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Gothic",
+        "resolution": "The judgmental whispers dwindle as the ethereal court is adjourned by the resolve of the living to not be swayed by the condemnation of spirits."
+    },
+    "101": {
+        "name": "The Reflection of Imprisoned Screams",
+        "description": "Mirrors cloud as anguished visages press against the glass, their silent screams a macabre chorus that claws at the mind, disturbing the veil between realities.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Glass",
+        "resolution": "The spectral reflections dissolve as recognition of their torment permeates the glass, acknowledging the pain that binds them."
+    },
+    "102": {
+        "name": "Inquisition of the Damned",
+        "description": "Invisible presences sweep the room with chilling whispers, their questions insidiously probing, entangling souls in a web of spectral scrutiny.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Occult",
+        "resolution": "The spectral inquisition comes to a close as the air clears, a silent defiance against the intrusive interrogations setting the spirits to rest."
+    },
+    "103": {
+        "name": "Eternal Struggle of the Iron Wraiths",
+        "description": "Spectral clinking echoes, a torturous din of perpetual combat fought by ghosts bound by iron links, reliving their conflicts in an unremitting cacophony.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Metal",
+        "resolution": "The relentless battle fades into quiet surrender as acknowledgment of their strife offers the wraiths release from their ironclad bonds."
+    },
+    "104": {
+        "name": "The Malediction of Stone Sentience",
+        "description": "The very stones of the estate groan with life, bleeding ichor and muttering curses, as if a vengeful spirit animates them with a sentience born of malice.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Stone",
+        "resolution": "Seeping stone falls silent, their curse lifted by an unwavering understanding that turns the walls inert, exorcising the embedded spirits."
+    },
+    "105": {
+        "name": "Whispers of the Accursed Scribe",
+        "description": "The silent room is filled with the scratching of an unseen quill. In the air, ghostly script spells out dreadful secrets, the ink made from the scribe's own spectral blood.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Occult",
+        "resolution": "The apparition's tale is heard and the quill ceases, the truth of the estate is recorded in the ether, no longer haunting the present."
+    },
+    "106": {
+        "name": "Grimoire of the Malevolent Mason",
+        "description": "Bound in weathered stone, an ancient tome radiates a darkness that seeps into the mortar of the estate, its pages a testament to a builder's pact with infernal forces.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Stone",
+        "resolution": "The grimoire's sinister influence crumbles as its stone binding is eroded by understanding, revealing the foundation's untainted history."
+    },
+    "107": {
+        "name": "Reflections of the Condemned",
+        "description": "Mirrors crack as they capture the visage of the condemned, their faces etched with crimes and tortures too grim to speak of, replaying their final moments eternally.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Glass",
+        "resolution": "The cycle breaks when empathy shadows judgment, the tortured reflections fade and the glass clears, judged no more."
+    },
+    "108": {
+        "name": "Cacophony of Rust and Riddles",
+        "description": "A dissonant clanging pervades the air as mechanical contraptions animate autonomously, their gears locking in place to formulate enigmatic patterns of torment.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Mechanical",
+        "resolution": "As the chaotic noise resolves into silence, the contraptions still, releasing their grip on the truth hidden within their intricate designs."
+    },
+    "109": {
+        "name": "Chains of the Unearthed Inquisition",
+        "description": "Bound by ethereal chains, ghostly figures recreate grim interrogations, their phantasmal agony palpable, the very air heavy with the timeless weight of their unanswered questions.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Metal",
+        "resolution": "With a gesture of absolution, the chains dissolve, and with it the need for answers, as the interrogated find peace."
+    },
+    "110": {
+        "name": "The Weeping Silhouettes",
+        "description": "From gothic fixtures weep shadowy figures, their sobs a dirge that fills the room with a mournful resonance, suffusing the walls with stories of sorrow long past.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Gothic",
+        "resolution": "Their tales acknowledged, the shadows cease their weeping, and serenity is restored to the room, once heavy with grief."
+    },
+    "111": {
+        "name": "Baleful Botanica",
+        "description": "Vegetation withers, adopting unnatural hues, whispering secrets of a forbidden nature. Each leaf and vine a testament to the malicious corruption of the estate's grounds.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Nature",
+        "resolution": "As the ill whispers are hushed by the pure essence of nature, the flora regains its vitality, the secrets buried once more."
+    },
+    "112": {
+        "name": "Symphony of the Artificer's Anguish",
+        "description": "A haunting melody of metallic resonance and mechanical whirs plays throughout the chamber, a sorrowful tune from the artisan spirits bound to their creations.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Mechanical",
+        "resolution": "The lament ends as the last note is tuned to silence; the artificers' souls depart, their creations left in still repose."
+    },
+    "113": {
+        "name": "Ornaments of Ominous Omens",
+        "description": "The estate's ornaments suddenly animate, their motions creepy harbingers, as each movement seemingly predicts dire events yet to unfold within these cursed walls.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Gothic",
+        "resolution": "Predictions cease, and tranquility reigns as the omens are understood and placated with a tribute to their Gothic origins."
+    },
+    "114": {
+        "name": "Vault of Verboten Voices",
+        "description": "A suffocating silence falls, only to be broken by whispers emerging from the shadows. Each sound a forbidden word, conjuring unfathomable truths from the depths of the estate's dark history.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Occult",
+        "resolution": "The voices fall abruptly silent as light is shone upon them, the truths embraced and concealed no more, setting the voices free."
+    },
+    "115": {
+        "name": "Murmurs of the Shrouded Conclave",
+        "description": "A congregation of indistinct whispers permeates the air, forming an arcane council that deliberates on omens of impending doom.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Occult",
+        "resolution": "The whispers cease as their prophecies are unveiled, the ethereal conclave disbanded by heightened understanding."
+    },
+    "116": {
+        "name": "Specters of the Alchemist's Tome",
+        "description": "Pages flutter erratically as if caught in a tempest, the alchemist's tome reveals otherworldly formulas, inscribed with a malevolent will.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Glass",
+        "resolution": "Truth crystallizes as the tome snaps shut, the spirits entrapped within the glass ink are quelled by logic and resolve."
+    },
+    "117": {
+        "name": "Echoes from the Cryptic Mausoleum",
+        "description": "Cold whispers echo from a spectral mausoleum, recounting dark secrets of the past, each stone a syllable of a morbid ancestral revelation.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Stone",
+        "resolution": "The echoes fade to silence as each ancestral secret is unearthed and acknowledged, sealing the mausoleum once more."
+    },
+    "118": {
+        "name": "The Iron Harbinger's Oath",
+        "description": "A metallic figure looms, bound by an ancient oath to foretell calamities, its gears grinding out a future written in sorrow.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Metal",
+        "resolution": "The harbinger's bolts loosen and its oaths fulfilled as the impending future is faced with stalwart courage."
+    },
+    "119": {
+        "name": "Chorus of the Verdant Curse",
+        "description": "Plants twist into grotesque forms, whispering vile litanies; their greenery hides a curse festering beneath, ready to ensnare the unwary.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Nature",
+        "resolution": "The twisted chorus withers as the heart of the curse is unearthed and cleansed, restoring natural order."
+    },
+    "120": {
+        "name": "Gears of the Forbidden Clockwork",
+        "description": "An unseen clockwork mechanism ticks ominously, the precision of its gears dictating an infernal timer to an unknown event.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Mechanical",
+        "resolution": "Time halts as the final gear is dismantled, the forbidden event averted by mechanical intuition."
+    },
+    "121": {
+        "name": "The Gargoyle's Mournful Vigil",
+        "description": "Stone gargoyles weep black tears, their silent vigil a grim testament to the untold tragedies they have witnessed.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Gothic",
+        "resolution": "The gargoyles' sorrow is soothed and their vigil ended as the shadows of history are brought to light."
+    },
+    "122": {
+        "name": "Reflections of the Malevolent Masque",
+        "description": "Mirrors capture ghastly masquerades, each reflective surface a stage for specters donning their most fiendish disguises.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Glass",
+        "resolution": "The masquerade dissolves when the true visage behind the masque is revealed, reflecting nothing but the truth."
+    },
+    "123": {
+        "name": "Cadence of the Corrupted Grove",
+        "description": "Whispers rustle through leaves that never age, a grove trapped in time, its essence a puzzle rooted deeply in ancient corruption.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Nature",
+        "resolution": "The grove is released from its temporal bind as the core of corruption is extracted and purged."
+    },
+    "124": {
+        "name": "The Monolith's Endless Enigma",
+        "description": "An obsidian monolith inscribed with runes stands impenetrable, its riddles a paradox that bends the sanity of those who dare approach.",
+        "associated_skill": "Investigation",
+        "secondary_requirement": "Stone",
+        "resolution": "Sanity prevails as the last riddle is unraveled, the monolith's power crumbling away to dust."
+    }
+}

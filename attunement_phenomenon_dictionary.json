@@ -1,0 +1,177 @@
+{
+  "25": {
+       "name": "Whispers of the Void",
+       "description": "Under a moonless sky, the air vibrates with an invisible choir, their whispers sliding like silk across flesh, sowing seeds of madness with every sibilant chorus.",
+       "associated_skill": "Attunement",
+       "secondary_requirement": "Occult",
+       "resolution": "The insidious murmurs are choked into silence, their grip on sanity released by the conclusive action of an occult rite."
+   },
+   "26": {
+       "name": "The Forge of Spectral Chains",
+       "description": "Amid the stench of brimstone and the clangor of unseen hammers, the forge conjures chains unseen, each link a shackle for the soul, wrought from the malice of tormented spirits.",
+       "associated_skill": "Attunement",
+       "secondary_requirement": "Metal",
+       "resolution": "With a resonant shatter, the spectral chains dissolve as the forge's infernal fire is smothered under the purity of a consecrated metal."
+   },
+   "27": {
+       "name": "Crystal of Malefic Visions",
+       "description": "Imprisoned within the depths of a malignant crystal, a seer's baleful spirit offers naught but visions steeped in blood, each gaze into the heart of the stone a step closer to doom.",
+       "associated_skill": "Attunement",
+       "secondary_requirement": "Glass",
+       "resolution": "The crystal's cursed foresight fractures, scattering its doom-laden prophecies to the wind under the touch of sanctified glass."
+   },
+   "28": {
+       "name": "Miasma of the Forsaken",
+       "description": "This vaporous shroud feeds upon the despair of the lost, exuding an anguish so profound that reality itself seems to weep, warping the very essence of life around it.",
+       "associated_skill": "Attunement",
+       "secondary_requirement": "Nature",
+       "resolution": "The sorrowful mists recede as if mourning their own existence, ceding their hold on the land to the nurturing embrace of the natural world."
+   },
+   "29": {
+       "name": "Altar of Writhing Shadows",
+       "description": "Born of twisted shadows and the silent screams of the damned, this unholy altar thirsts for the suffering it ensnares, each offering cast upon it a tribute to oblivion.",
+       "associated_skill": "Attunement",
+       "secondary_requirement": "Gothic",
+       "resolution": "The shadows unravel in a tortured wail as the altar crumbles, its dark hunger starved."
+   },
+  "30": {
+      "name": "Convergence of Despair",
+      "description": "The ominous alignment of ancient runes foretells an era steeped in shadows, with waves of despair eroding the remnants of hope.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Stone",
+      "resolution": "The binding runes crack and crumble, their doleful prophecy scattered to the winds as the stone turns to inert dust."
+  },
+  "31": {
+      "name": "Loom of the Netherweave",
+      "description": "At the edge of perception lies the loom, its threads woven from the very essence of the void, twisting fate into a tapestry of nightmares.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Gothic",
+      "resolution": "The loom falls silent as its netherweave threads dissolve; the air lightens as peace weaves through the realms."
+  },
+  "32": {
+      "name": "Dirge of the Damned Sirens",
+      "description": "A ghastly hymn echoes through the cursed sea, sung by sirens forever bound to their watery graves, their melodies an anchor to madness.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Glass",
+      "resolution": "As the final note shatters an accursed glass, the haunting dirge ends, silencing the sirens' mournful lament."
+  },
+  "33": {
+      "name": "Monoliths of the Mind-Eater",
+      "description": "Encircling obelisks hum with a voracious psychic energy, their vibration a chant that devours thoughts, leaving behind only husks of consciousness.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Metal",
+      "resolution": "The monoliths' insatiable hum is quelled, their ravenous resonance sealed within your heart."
+  },
+  "34": {
+      "name": "Throne of the Baleful Empath",
+      "description": "A throne carved from onyx pulses with a nefarious power, its seat enticing rulers of men to partake in the sufferings of every soul that ever was.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Gothic",
+      "resolution": "The throne's malevolent draw crumbles under its own sorrow, collapsing into rubble that whispers no more."
+  },
+  "35": {
+    "name": "Lament of the Ethereal Fetter",
+    "description": "Ethereal chains clink through the silence, each link crying out with the sorrows of trapped souls, longing for release from their translucent bonds.",
+    "associated_skill": "Attunement",
+    "secondary_requirement": "Metal",
+    "resolution": "The hollow clinks dissipate as an understanding is reached, liberating the spirits from their metal-borne fetters."
+  },
+  "36": {
+    "name": "Mirrors of Perpetual Torment",
+    "description": "A hallway lined with mirrors, each reflection trapped in an endless loop of their most horrific moments, the glass suffused with the essence of terror.",
+    "associated_skill": "Attunement",
+    "secondary_requirement": "Glass",
+    "resolution": "As the reflections are acknowledged, the loop breaks, and peace is restored to each visage within the mirrors."
+  },
+  "37": {
+    "name": "Sepulcher of the Cursed Seed",
+    "description": "A crypt where an ancient seed lies buried, its roots entwining the entire structure, pulsing with a malign intent that corrupts all life around it.",
+    "associated_skill": "Attunement",
+    "secondary_requirement": "Nature",
+    "resolution": "When communion with the cursed seed is achieved, its hold on life falters, and the crypt becomes a sanctum of serene repose."
+  },
+  "38": {
+    "name": "Heart of the House That Grieves",
+    "description": "The core of the abode writhes with the anguish of the structure itself, the very walls bleeding sorrow, each room echoing with the ghostly sobs of the domicile.",
+    "associated_skill": "Attunement",
+    "secondary_requirement": "Stone",
+    "resolution": "Empathy brings consolation, calming the sorrowful edifice, and stilling the anguished echoes."
+  },
+  "39": {
+    "name": "Engine of Eldritch Nightmares",
+    "description": "A twisted mechanical device whose gears grind the fabric of dreams into nightmares, its unholy engineering spawn dread in the hearts of all who hear its cacophony.",
+    "associated_skill": "Attunement",
+    "secondary_requirement": "Mechanical",
+    "resolution": "The machine is stilled by understanding its purpose, silencing the nightmarish orchestra and restoring the tranquillity of dreams."
+  },
+  "40": {
+      "name": "Eulogies of the Hollow",
+      "description": "A morbid silence permeates the air, punctuated by the whispers of unseen mourners lamenting their infernal fate, the void in their chorus beckoning to join their unending requiem.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Occult",
+      "resolution": "The dismal chorus recedes into the depths, as their eulogies are captured and sealed within a relic of occult significance."
+  },
+  "41": {
+      "name": "Ironheart Phantasm",
+      "description": "The echo of a metallic heartbeat fills the room, its ominous cadence a harbinger of mechanic phantoms forged from wrath and despair, pacing ever closer.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Metal",
+      "resolution": "The ghostly procession halts as their iron hearts are quieted, beseeched by an artifact of their kindred material."
+  },
+  "42": {
+      "name": "Crestfallen Prophet's Gaze",
+      "description": "A glassy visage emerges from the shards of a shattered future, its sorrowful eyes bearing the misery of foreseen catastrophes and the burden of whispering prophesies no mortal dares to hear.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Glass",
+      "resolution": "The prophet's grim gaze shatters with the offering of a kindred glass, severing the incessant stream of ominous visions."
+  },
+  "43": {
+      "name": "Brambles of the Forlorn",
+      "description": "Twisting vines of thorns writhe with the lifeblood of forsaken spirits, their mournful wails entwined in the gnarled embrace of nature's cruel remembrance.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Nature",
+      "resolution": "The malicious growth recoils and retreats, its lamentations ceasing as a piece of the natural world is sacrificed."
+  },
+  "44": {
+      "name": "Sanguine Scriptures of the Damned",
+      "description": "In the cold stillness, gothic tomes bound in abyssal hide inscribe themselves in blood, each verse an ode to torment and the insidious seductions of darkness.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Gothic",
+      "resolution": "The vile verses become illegible, their monstrous incantations fading into oblivion with the presence of a gothic relic."
+  },
+  "45": {
+      "name": "Chorus of the Unseen Abyss",
+      "description": "A guttural canticle swells beneath the floorboards, the invisible congregation's song a dissonant psalm, entreating malevolent entities from the void's embrace.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Occult",
+      "resolution": "The blasphemous anthem ebbs away as an occult symbol is offered, severing the eldritch connection."
+  },
+  "46": {
+      "name": "Specter of the Forgotten Knight",
+      "description": "Within the darkness looms an ethereal knight, its armor a hollow testament to battles forgotten, a spectral entity bound in eternal, restless vigilance.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Metal",
+      "resolution": "The weary apparition sheathes its blade and finds solace, as a relic of tempered metal quells its ancient qualms."
+  },
+  "47": {
+      "name": "Visions of Fractured Reality",
+      "description": "The air ripples with refracted visions of torment, the very fabric of reality splintering before your eyes, each shard a window to a realm of suffering.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Glass",
+      "resolution": "The nightmarish panorama dissolves when confronted with a piece of stained glass that reflects not what is, but what should be."
+  },
+  "48": {
+      "name": "Entwined with the Mourning Tree",
+      "description": "A gnarled tree of otherworldly origin takes root in the foundation, its bark weeping sanguine, its whispering leaves an elegy for the damned souls it ensnares.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Nature",
+      "resolution": "The grieving timber releases its grasp on the trapped spirits as an offering of natural essence reconciles its painful existence."
+  },
+  "49": {
+      "name": "Malice of the Gear-Turned Fiend",
+      "description": "An intricate web of gears and clockwork animates a sinister machinery, each movement an embodiment of precision-engineered hatred for the living.",
+      "associated_skill": "Attunement",
+      "secondary_requirement": "Mechanical",
+      "resolution": "The meticulous loathing is dismantled gear by gear as a mechanism from the same epoch is sacrificed to disrupt the hateful rhythm."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  
+"raceList" : ["Dragon", "Beast", "Zombie", "Fiend", "Phantom", "Arcane", "Human"],
+"dragonName" : ["ra","pa","la","ya","ga","ta","na","u","go","ro","po","tir","nir","rir","sir","mir","ion"],
+"dragonName2" : ["ra","pa","la","ya","ga","ta","na","u","go","ro","po","tir","nir","rir","sir","mir","ion","'", "'","'"," "," "," "],
+"dragonMod" : ["Golden","Dawning","Moon","Kissed","Black","Crystal","Half-Breed","Treasure","Ice","Fire","Jade","River","Stone","Old","Young","White","Celestial","Pearlescent","Bone","Ancient","Horned"],
+"dragonType" : ["Drake","Dragon","Wyvern","Wyrm","Hydra","Basilisk","Naga","Cockatrice","Zmeu","Amphitere","Lindorm"],
+	
+"beastName" : ["moz","rep","daz","etu","dar","zu","ith","ot","den","zep","lo","to","im","ho","paz","zen","got"],
+"beastMod" : 		        ["Black","Silver","Grey","Red","Striped","Tattooed","Scarred","Howling","Screaming","Smoldering","Lone","Twin","Hidden","Burnt","Arctic","Jungle","Bright","Dark","Giant","Vicious","Scared","Feared","Lean","Fat","Strong","Wild","Tamed","Mutant"],
+"beastType" : ["Chimera","Minotaur","Centaur","Great Bear","Catoblepas","Chinese Fox","Garuda","Golem","Gnome","Griffin","Hundred-Heads","Manticore","Phoenix","Troll","Brownie","Yeti","Chupacabra","Harpy"],
+      
+"zombieName" : ["gar","rag","tr","ach","zed","zah","beh","bah","gra","nag","zat","er","eh","neh","urn","gr","og","ra"],
+"zombieMod" : ["Rotting","Exploding","Pustuled","Cancerous","Flea-ridden","Infected","Sick","Spreading","Hungry","Angry","Dumb","Fast","Smart"],
+"zombieType" : ["Maggot Man","Vulture King","Zombie","Zombie","Not-The-Same","Corpse","Slave-Mind","Tse-Tse","Bile Spewer","Flatliner","Plague Doctor","Crawler","Stalker","Ankle-Biter","Ravager","Screamer","Spitter","Walker","Carrier"],
+    
+"fiendName" : ["rak","tak","hak","dak","mak","nak","lak","ruk","tuk","huk","duk","muk","nuk","luk","us","och","mon","rym","osh","ast","met","","ith","oth","zel","an","'"],
+"fiendMod" : ["Crooked","Tortured","Wretched","Aborted","Vile","Imprisoned","Wicked","Shamed","Untruthful","Insane","Beguiled","Killer","Murderer","Abomination","Sick","Dying"],
+"fiendType" : ["Devil","Demon","Imp","Incubus","Succubus","Satyr","Reaper","Possessor","Horseman","Dream Eater","Goblin","Trickster","Amalgamation"],
+    
+"phantomName" : ["wis","pha","sha","anim","folo","dava","ara","ethe","erra","urse","ath","yth","evi","boo","ade","ram","bel","bil","lum","cri","ate","son","sit","ong","av"],
+"phantomMod" : ["Swamp","Mist","Moors","Deep","Dark","Mountain","Graves","Stones","Fire","Lake","Plains","Chasm","Mind","Winds","Lagoon","Hall","Body","Past","Dead","Sea","Stones","After","Ever","Never","Black","Grey","Void","Empty","Nothing","Forever","Darkness","Moonlight"],
+"phantomType" : ["Sheet Ghost","Apparition","Civil War Ghost","Orb Ghost","Vampire","Mogwai","Mononoke","Headless Horseman","Bloody Mary","Old Rook","Deogen - The Eyes","La Llorona","Hitchhiker","Preta Hungry Ghost","Shadow Person","Ghoul","Lich","Mummy","Wight","Revenant","Skeon"],
+     
+"arcaneName" : ["ath","","eth","lot","tet","oth","uth","lul","ulu","ot","ut","at","et"],
+"arcaneMod" : ["Wicked","Blasphemous","Heretical","Cynical","Unholy","Wretched","Foul","Worthless","Horrid","Abhorrent","Vile","Shameless","Villainous","Treacherous","Traitorous","Masked","Shadowed","Cursed"],
+"arcaneType" : ["Zealot","Pyromancer","Moon Child","Warlock","Witch","Magician","Apprentice","Mystic","Voodoo Priest","Shaman","Hermit","Alchemist","Monk","Scholar","Diviner","Oracle","Summoner","Snake Charmer"],
+	
+"humanName" : ["John","David","Joseph","Kyle","Neel","Steeven","Sam","Dean","Pat","Ruby","Scott","Dallas","Avery","Jordan","Sawyer","Quinn","Peter","Saul","Carrie","Chris","Michael","Seth","Saul","Jessie","Kim","Lindsay","Stevie","Mick"],
+"humanName2" : ["Smythe","Bombay","James","Bangor","King","Gayman","Venture","Ryker","Taylor","Bouchard","Bellamy","Decker","Hymer","LaVey"],
+"humanMod" : ["Entry-Level","Salaried","Seasoned","Contracted","Rookie","Master","Expert","Adept","Learned","Risky","Humble","Managing","Temp","Beginner","Veteran","Teen","Lonely","Famed","Wannabe","Unemployed","YooToob","Social Media"],
+"humanType" : ["Ranger","Scientist","Barista","Yogi","Athe","N00B","Sk8r Boi","Musician","Sniper","Navy Seal","Truck Driver","Techie","Archaeologist","Mathematician","Criminal","Murderer","Con Man","Warden","Hunter","Extreme Sports Enthusiast","Inventor","Programmer","Mail Carrier","Influencer","Writer","Doctor","Dentist","Physician","Physical Therapist"]
+}

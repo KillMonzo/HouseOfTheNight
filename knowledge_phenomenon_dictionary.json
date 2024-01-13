@@ -1,0 +1,177 @@
+{
+    "75": {
+        "name": "Sigil of the Malefic Scholar",
+        "description": "A pulsating glyph materializes in the air, its eldritch lines seeping shadows and whispering an unthinkable lore that gnaws at the edges of sanity.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Occult",
+        "resolution": "Deciphering the sigil's hellish contours dissipates its vile embodiment, silencing the sinister chant for knowledge."
+    },
+    "76": {
+        "name": "The Librarian's Final Shush",
+        "description": "A silent, grim presence hovers amongst the tomes, emanating a dread so profound it silences the very soul. Ancient eyes seek to quell the uninitiated's quest for forbidden truths.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Silence",
+        "resolution": "In an arcane quietus, the presence acknowledges a tribute to the lost lore, spiriting away into the void between the words."
+    },
+    "77": {
+        "name": "Whispering Thorns of the Carnal Garden",
+        "description": "Tendrils of corruption twist through the estate, where flora whisper unspeakable secrets. Thorns inscribed with torment lash out, ensnaring seekers of the perverse enlightenment.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Nature",
+        "resolution": "Only through enduring the thorns' lacerating revelations can one expunge the insidious infestation, restoring an unnatural silence to the accursed growth."
+    },
+    "78": {
+        "name": "Cacophony of Forgotten Dirges",
+        "description": "An ethereal requiem plays from nowhere, stirring the dust of memories best left undisturbed. Each note resonates with the agony of forgotten souls, lamenting their damned fates.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Glass",
+        "resolution": "Harmonizing the mournful wails with a fractured reflection of reality silences the phantasms' dirge, granting them merciful obscurity."
+    },
+    "79": {
+        "name": "Arcanum's Enslaving Rune",
+        "description": "An enigmatic rune emerges, imbued with a dark magnetism that binds the will of those in its presence, compelling them into an eternal pact with eldritch forces.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Stone",
+        "resolution": "The rune's arcane hold shatters only when its stone bond is broken, releasing the indentured spirits from their servile shackles."
+    },
+    "80": {
+        "name": "Enigma of the Severed Scholar",
+        "description": "In an eerie silence, the study echoes with the sounds of pages turning, as if an invisible scholar scours ancient tomes, searching for a forbidden truth. The air shivers with intellectual malice as riddles seep from the walls, their answers key to halting the unrelenting search.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Occult",
+        "resolution": "The riddles cease only when an occult relic is offered, its mystic essence quelling the scholar's spectral presence."
+    },
+    "81": {
+        "name": "Interrogation of the Malefic Mirror",
+        "description": "A once-clear reflection becomes a window to despair as a malevolent entity within the glass demands answers to questions that chill the soul. Each inquiry drips with venomous intent, seeking to trap the unwary in a prism of perpetual torment.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Glass",
+        "resolution": "Answers come forth not in words, but in the sacrificial shattering of another mirror, breaking the grip of the captious inquisition."
+    },
+    "82": {
+        "name": "Grimoire of Perpetual Dilemma",
+        "description": "A book bound in shadowed leather materializes upon a desolate desk – within its pages lie puzzles of profane knowledge. Whispers from the void coax readers into its labyrinthine text, the questions morphing and multiplying in endless deceit.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Occult",
+        "resolution": "True dismissal of the cursed tome comes not from knowledge, but from sealing its pages with a talisman inscribed with ancient sigils."
+    },
+    "83": {
+        "name": "Riddling Rust of the Iron Revenant",
+        "description": "An uncanny, iron scent invades the air as an undying revenant in corroded armor rises, its voice creaking out impossible riddles. Each correct guess corrodes the spirit further, each failure empowering its malignant existence.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Metal",
+        "resolution": "Only when the final riddle is met with a silence, acknowledging the revenant's torment, does it rust away into oblivion."
+    },
+    "84": {
+        "name": "Conundrums of the Stone Sentinel",
+        "description": "Motionless figures carved from cold stone whisper conundrums that entwine around the sufferer's mind like unbreakable chains. The very air grows denser with the weight of unanswered queries, threatening to crush the will of those who cannot solve them.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Stone",
+        "resolution": "It is with a profound silence, an acceptance of unknowable truths, that the statues crumble to dust, their questions unanswered but their vigil concluded."
+    },
+    "85": {
+        "name": "Conclave of Cursed Enigmas",
+        "description": "A hushed gathering of spectral figures enshrouds the room, their very presence warping the air with the weight of unspoken riddles, each more confounding and treacherous than the last. The spirits coldly challenge the minds of all intruders with enigmas that drip with malice.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Occult",
+        "resolution": "Silence washes over the ghostly conclave as the final riddle unravels, the specters nodding their approval before dissolving into the ether."
+    },
+    "86": {
+        "name": "Echoes of the Torment Lexicon",
+        "description": "Whispers of an unseen lexicon resonate through the walls, the verses inscribed with the torment of ancient scholars. Each word echos with a sinister intelligence, beckoning the unwary into a labyrinth of verbal treachery that threatens to ensnare the soul.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Gothic",
+        "resolution": "The malevolent murmurs fade to nothingness as understanding dawns, the cursed knowledge now interred within the silence."
+    },
+    "87": {
+        "name": "Labyrinth of The Shattered Mind",
+        "description": "The room twists inexplicably into a maze of fractured reflections, each glass pane a puzzle steeped in psychosis. Images of past atrocities play out in a loop, their maddening patterns challenging the sanity of all who dare gaze upon them.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Glass",
+        "resolution": "With each solved enigma the labyrinth of glass aligns, shattering the loop of horrors and restoring order from chaos."
+    },
+    "88": {
+        "name": "Sonnets of the Iron Maiden",
+        "description": "A hollow voice recites verses from within an iron maiden, the prose like jagged edges rending the psyche. Its poetic puzzles are a cruel testament to the despair of those impaled on the spikes of ignorance, their knowledge never sharp enough to escape.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Metal",
+        "resolution": "The grim sonnets cease only when the maiden's riddle is met with an intellect as piercing as her interior, allowing the doors to creak open and reveal nothing but dust."
+    },
+    "89": {
+        "name": "Whispers of the Stone Tapestry",
+        "description": "Achingly slow, the walls of the chamber come alive with eldritch carvings, narrating a story of dread in a language of despair. The petrified testaments promise salvation or eternal entrapment, the fate dictated by the solver's ability to decipher the stone-bound tales.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Stone",
+        "resolution": "The whispering carvings quiet as the final passage is translated, their stone faces smoothing back into the cold walls, rendering them silent once more."
+    },
+    "90": {
+        "name": "Crypt of the Inquisitor",
+        "description": "A specter of a hooded judge looms, compelling those in its presence to answer riddles rooted in anguish and sin, the very air heavy with the weight of judgment.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Gothic",
+        "resolution": "Only when the spectral inquisition is met with a silence that reflects its own somber decree does it dissolve into the shadows."
+    },
+    "91": {
+        "name": "Visions of the Tenebrous Lector",
+        "description": "Dark mirages of an ancient lector emanate from the haunted estate's library, each shadowy tome revealing riddles of despair that ensnare the mind in webs of deceit.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Glass",
+        "resolution": "The nightmarish puzzle unravels as an opalescent glass lens is held to reveal the hidden truths within the spectral pages."
+    },
+    "92": {
+        "name": "Arcane Puzzle of the Mechanized Oracle",
+        "description": "A series of intricate enigmas are projected by an automaton oracle, its mechanical components whirring ominously with each unsolved paradox, a testament to a bygone era's arcane mastery.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Mechanical",
+        "resolution": "The oracle falls silent as the ancient gears are pacified not through force, but by identification and alignment of the prime mythic cog."
+    },
+    "93": {
+        "name": "Lament of the Metallic Scribe",
+        "description": "The clinking of etheric chains and scraping of iron quills scores the somber tale of a damned scribe, bound to inscribe enigmas of malice upon the flesh of souls who dare not solve them.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Metal",
+        "resolution": "Eternal servitude escapes those who use the cold iron of judgment to sever the bindings of the scribe, allowing his woeful tale to cease."
+    },
+    "94": {
+        "name": "Riddle of the Stonebound Revenant",
+        "description": "A revenant encased in petrified anguish poses riddles from the gilded age of sorrow, its expressions a tableau of horror that challenges the wit and fortitude of any who dare engage.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Stone",
+        "resolution": "Silent understanding and the offering of a stone hewn from ancient despair soothes the revenant, granting release from its eternal prison."
+    },
+    "95": {
+        "name": "Harbinger of Orwellian Enigmas",
+        "description": "An enigmatic force imparts bleak riddles with an air of despotic control; each solution only leads to more dread, binding the listener in a cycle of dire prophecy.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Occult",
+        "resolution": "The loop of hopelessness is severed with the application of an arcane symbol, culminating in the unraveling of the malevolent prediction."
+    },
+    "96": {
+        "name": "Enigma of the Throned Hedera",
+        "description": "Nature’s own twisted intelligence, encapsulated by a hedera’s throne, whispers riddles older than time, coiling around the essence of those that cannot comprehend the primordial dialect.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Nature",
+        "resolution": "Answering nature’s query through harmonious action, an ancient seed is planted, allowing new life to grow and override the enigma."
+    },
+    "97": {
+        "name": "Ballad of the Weeping Sentinel",
+        "description": "A stoic figure wrought from lamenting spirits issues a mournful riddle, each intonation a verse in the ballad of the forgotten; a challenge intertwining fatality with the chance of liberation.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Gothic",
+        "resolution": "The ballad fades as a resonant gothic chime tolls, acknowledging the sentinel's duty as fulfilled, granting passage."
+    },
+    "98": {
+        "name": "Oracle of the Glass Labyrinth",
+        "description": "A labyrinthine construct of reflections and glass distorts reality, compelling those trapped within to solve its sinister riddles under the gaze of the glass-etched oracle.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Glass",
+        "resolution": "Freedom is mirrored in the act of shattering one’s own reflection, fracturing the labyrinth’s power and dismissing the oracle’s watchful eye."
+    },
+    "99": {
+        "name": "Chant of the Malformed Automaton",
+        "description": "Part organic, part mechanical, a malformed creation chants cryptic riddles, its very existence a grotesque puzzle—an aberration fusing the sorrows of flesh with the cold logic of gears.",
+        "associated_skill": "Knowledge",
+        "secondary_requirement": "Mechanical",
+        "resolution": "Terminating the chant with poised understanding, an adept dismantles a piece from the automaton, an act that appeases its dual nature."
+    }
+}

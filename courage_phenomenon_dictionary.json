@@ -1,0 +1,177 @@
+{
+  "0": {
+    "name": "Choir of the Damned",
+    "description": "Whispers of the accursed choir seep through the cracked stones of an age-old cathedral, each note a wail from the abyss that chills the marrow.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Gothic",
+    "resolution": "As the last echoes wane, the suffocating heaviness of the air lifts, bequeathing a grim silence."
+  },
+  "1": {
+    "name": "Watcher in the Windows",
+    "description": "In the reflections of ancient, warped glass panes, lurk the silhouettes of those who watch with ominous intent, their stares a curse that binds the soul.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Glass",
+    "resolution": "The shadowy figures retreat into the void, leaving the glass clear and the watcher's gaze broken."
+  },
+  "2": {
+    "name": "The Bleeding Walls",
+    "description": "The chamber's walls weep with thick, dark ichor, cries of the stone echoing the agony of spirits bound within, each droplet a remnant of unending torment.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Stone",
+    "resolution": "The bleeding ceases, and the walls fall silent, their sorrowful tale finally at rest."
+  },
+  "3": {
+    "name": "Sentinels of Sorrow",
+    "description": "In the moonlit ruins, iron effigies of fallen knights awaken with a hollowed clank, their phantom blades guarding secrets lost to the sorrow of time.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Metal",
+    "resolution": "With a final, mournful groan, the iron sentinels still, their watch over ancient grief concluded."
+  },
+  "4": {
+    "name": "Wraith of Anguish",
+    "description": "A shadow drifts amidst the graveyard fog, its presence an amalgam of anguish, the eternal lament of a wraith whose sorrow taints the very essence of the air.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Occult",
+    "resolution": "The wraith dissolves into the night mist, its torment carried away on the whispering wind."
+  },
+  "5": {
+    "name": "Ceremony of the Tormented",
+    "description": "A ghastly ritual echoes through the crypts, the agonized pleas of the tormented souls begging for release from their endless torture.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Occult",
+    "resolution": "The dark ritual abates, the pained spirits freed, returning the crypts to a haunted, yet peaceful quietude."
+  },
+  "6": {
+    "name": "Gaze of the Stone Guardians",
+    "description": "Statues with eyes that follow relentlessly, exuding a malevolent presence that wears down the sanity of those who dare meet their gaze.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Stone",
+    "resolution": "Eyes of stone shut forever, their watch ending, liberating the afflicted from their petrifying curse."
+  },
+  "7": {
+    "name": "Shrieks within the Obsidian Hall",
+    "description": "Malignant shrieks pierce the shadows of the hall, as shapes of darkness twist in the corners of vision, threatening to engulf the light.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Glass",
+    "resolution": "The cacophony dims to silence, the shadows retracting, repelled by the resurgent light."
+  },
+  "8": {
+    "name": "Chains of Perdition",
+    "description": "Invisible chains bind the living with excruciating pain, each movement a reminder of the relentless malice of the specters that forged them.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Metal",
+    "resolution": "The ethereal bonds break, granting solace to the suffering, the vengeful apparitions vanquished."
+  },
+  "9": {
+    "name": "Altar of Desecration",
+    "description": "An ancient altar exudes a suffocating aura of despair, its presence corrupting the essence of the land and tormenting the souls chained to it.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Gothic",
+    "resolution": "The taint of desecration fades, and the land breathes anew, free from the sorrow once shackling it."
+  },
+  "10": {
+      "name": "Mirror of Souls",
+      "description": "A looking glass not of reflection but reaping, revealing the tormented souls ensnared within its frame, seeking to entrap the unwary.",
+      "associated_skill": "Courage",
+      "secondary_requirement": "Truth",
+      "resolution": "The mirror's grip falters, the souls within released, and truth reflected once more."
+  },
+  "11": {
+      "name": "Shadow of Doubt",
+      "description": "Cast in an umbral shroud, this darkness breathes life into fears unseen, doubts unspoken, and horrors unfathomable.",
+      "associated_skill": "Courage",
+      "secondary_requirement": "Clarity",
+      "resolution": "Illumination banishes shadow, with clarity restoring the soul and silencing trepidation."
+  },
+  "12": {
+      "name": "Torrent of Torment",
+      "description": "A ceaseless downpour of spectral rain, each droplet transmutes joy into excruciating pain, drenching the spirit in malaise.",
+      "associated_skill": "Courage",
+      "secondary_requirement": "Endurance",
+      "resolution": "The storm dissipates, leaving behind a solemn calm, the spirit's weights lifted."
+  },
+  "13": {
+      "name": "Harbinger of Havoc",
+      "description": "A shadowy manifestation looms, forecasting destruction as it unravels reality, sowing discord with every menacing whisper.",
+      "associated_skill": "Courage",
+      "secondary_requirement": "Sanctity",
+      "resolution": "Order resumes as the harbinger fades, its ominous prophecy unfulfilled and silenced."
+  },
+  "14": {
+      "name": "Cacophony of the Condemned",
+      "description": "The air itself is rent by the piercing cries of condemned souls, a maddening orchestra of despair that seeks to unmake the mind.",
+      "associated_skill": "Courage",
+      "secondary_requirement": "Fortitude",
+      "resolution": "Silence triumphs over cacophony, the anguished symphony hushed and put to eternal rest."
+  },
+  "15": {
+    "name": "Abyssal Incantation",
+    "description": "The air grows dense as a choir of dissonant voices chants from the void, their incantation drawing forth the anguish of a thousand damned souls.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Occult",
+    "resolution": "The malignant chorus fades, leaving behind a haunting silence as the spell's power is broken."
+  },
+  "16": {
+    "name": "Cenotaph of Malevolent Shadows",
+    "description": "A dark obelisk stands, emanating waves of malevolence; shadows coil around it like serpents, each a strand of pure malice seeking to strangle hope.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Stone",
+    "resolution": "As the last shadow unravels, the obelisk crumbles, and a solemn peace descends."
+  },
+  "17": {
+    "name": "Cataclysmic Render",
+    "description": "The ground quakes as tortured spirits claw their way to the surface, their wails a symphony of sorrow, cursing the land with their unending torment.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Nature",
+    "resolution": "The realm of the living reclaims its dominion as the spirits' grievous cries fall silent."
+  },
+  "18": {
+    "name": "The Infernal Monolith",
+    "description": "A towering structure of unholy origin whispers insidious thoughts to those nearby, its very presence a blight upon the land.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Metal",
+    "resolution": "The monolith's hold crumbles under the weight of courage, its dark whispers drowned out by silence."
+  },
+  "19": {
+    "name": "Specters of the Blood Moon",
+    "description": "Pale specters dance macabrely under a blood-red moon; their touch is an eternal curse, their gaze a harbinger of inevitable doom.",
+    "associated_skill": "Courage",
+    "secondary_requirement": "Gothic",
+    "resolution": "With the dawn, the cursed moon sets, and the wraiths vanish like mist, dispelled by the light."
+  },
+  "20": {
+    "name": "Whispers from the Deceased",
+    "description": "The air grows cold and the faint whispers of the long-gone fill the space, each utterance dripping with sorrow and longing for the life they once knew.",
+    "associated_skill": "Courage",
+    "resolution": "Offering an artifact from the world they knew, an item of nature or stone, quells the spirits' laments and restores silence.",
+    "secondary_requirement": "Nature"
+    },
+  "21": {
+    "name": "Visage of Eternal Damnation",
+    "description": "A grotesque face materializes on the wall, its expression contorted in eternal agony and malice, eyes weeping blood.",
+    "associated_skill": "Courage",
+    "resolution": "Confronting the apparition with an object reflective of the gothic or glass, splinters the image and shatters its cursed presence.",
+    "secondary_requirement": "Gothic"
+  },
+  "22": {
+    "name": "Revenant's Iron Grasp",
+    "description": "Invisible, steely fingers creep around your throat, tightening with a malicious intent and the echo of a tormented past.",
+    "associated_skill": "Courage",
+    "resolution": "Clasping a relic of metal or mechanical origin, you break free from the vengeful grip, giving peace to the relentless spirit.",
+    "secondary_requirement": "Metal"
+  },
+  "23": {
+    "name": "Echoes of the Unholy Ritual",
+    "description": "The remnants of a dark ritual pulsate through the room, a palpable malevolence that seeks to corrupt the hearts of the living.",
+    "associated_skill": "Courage",
+    "resolution": "Countering the tainted aura with an occult or glass artifact cleanses the foul energies, dispelling the ritual's echoes.",
+    "secondary_requirement": "Occult"
+  },
+  "24": {
+    "name": "The Clockwork Malignancy",
+    "description": "A cacophony of mechanical whirrs and ticks fills your ears, each sound a harbinger of an oncoming, sinister doom.",
+    "associated_skill": "Courage",
+    "resolution": "Using a mechanical or metal instrument, you meticulously dismantle the clockwork curse, piece by piece.",
+    "secondary_requirement": "Mechanical"
+  }
+}
